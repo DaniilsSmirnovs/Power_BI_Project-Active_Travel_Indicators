@@ -1,1 +1,3 @@
 **Link**: https://app.powerbi.com/view?r=eyJrIjoiNjgwY2NmMmMtYjBkMC00OTM4LTkxMjgtMDZlNmUwNzlhZDIzIiwidCI6IjdkMzlkYzhlLTFjYWUtNGM1Zi04ZmNiLWIzNTA0ZjY4NGI2NSJ9
+
+![Dashboard.png](/images/dashboard_snapshot.gif)
